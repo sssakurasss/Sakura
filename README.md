@@ -3,21 +3,48 @@
 ___
 # Навигация 
 
-1. **Ссылки**
-2. **Переменная**
-3. **Установка**
-4. **Команды**
->Часть ссылок кликабельные.
+1. [**Ссылки**](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8)
+2. [**Переменная**](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5)
+3. [**Установка**](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0)
+4. [**Команды**]()
+>Все ссылки кликабельны.
 ___
 # Ссылки
 ___
->Группа ВКонтакте: [Sakura](<https://vk.com/sakura.officiall>)
+>:closed_book:Группа ВКонтакте: [Sakura](<https://vk.com/sakura.officiall>)
 
->Разработчики:
+>:bust_in_silhouette:Разработчики:
 >[Сerbero Skarlettsoon](<https://vk.com/cerberoskarlettsoon>),
 >[Даня Трофимов](<https://vk.com/sheykh.skarlettsoon>)
 ---
 # Переменные
+
+|  **Переменная**   | **Описание**  | 
+| ------------- |:-------------:|
+| ```{USER}``` | Реплей: Ссылка |
+| ```{PASS}```       | Пароль от VK |
+| ```{DATE}```        | Текст - Вложение|
+| ```{NONE}``` | Без параметра |
+| ```{TEXT}``` | Произвольный текст |
+| ```{LOGIN}``` | Логин от VK |
+| ```{ENTER}``` | Перенос строки |
+| ```{NUMBER}```| Число |
+| ```{PARAMS}``` | Параметр |
+| ```{COMMAND}``` | Команда |
+| ```{CPREFIX}``` | Префикс команд |
+| ```{SPREFIX}``` | Префикс скриптов|
+| ```{TOKENVKA}``` | Токен VKAdmin |
+| ```{TOKENSKR}``` | Токен Sakura |
++ :arrow_up: [Навигация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5)
 ___
-| * |  Перемнные  | Описание  | | * |
-|----------------|:---------:|
+# Установка
+___
+# Получаем токен [VKAdmin.](https://vk.cc/9NCoPi)
++ Листаем в самый низ, нажимаев[Разрешить].
++ Копируем то-что находиться в URL адресе страницы
+
+# Переходим в личные сообщения с [Сerbero Skarlettsoon](<https://vk.com/cerberoskarlettsoon>).
++ пишем - зарегистрируй
++  + Получаем - Пользователь (ИМЯ), заарегистрирован успешно.
+___
+# Переходим в чат [Избранное](vk.com/mail?peer={}).
