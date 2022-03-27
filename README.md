@@ -48,3 +48,5 @@ ___
 +  + Получаем - Пользователь (ИМЯ), заарегистрирован успешно.
 ___
 # Переходим в чат [Избранное](vk.com/mail?peer={}).
+Пишем 
+![Как на картинке](https://sun1-57.userapi.com/impf/meeeBZ80Q-M_ynuwfZp37wl63XDKzf2MSIZeWQ/eEh0EzIGpOI.jpg?size=162x67&quality=96&sign=f48bbab7a1b220f6a2beb75ffe782500&type=album)
