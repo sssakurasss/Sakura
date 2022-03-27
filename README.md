@@ -1,2 +1,2 @@
-# LP Module Sakura
+# LP Module | Sakura
 Sakura - позволяет управлять любыми функциям из любого чата.
