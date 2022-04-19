@@ -15,9 +15,8 @@ ___
 ___
 >:closed_book:Группа ВКонтакте: [Sakura](<https://vk.com/sakura.officiall>)
 
->:bust_in_silhouette:Разработчики:
+>:bust_in_silhouette:Разработчик:
 >[Сerbero Skarlettsoon](<https://vk.com/cerberoskarlettsoon>),
->[Даня Трофимов](<https://vk.com/sheykh.skarlettsoon>)
 ---
 # Переменные
 
