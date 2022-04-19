@@ -1,7 +1,5 @@
  # LP Module | Sakura
- ![logo](https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-Resize-q5sXaVuQeX5p4.jpg)
- 
-**Sakura** - позволяет управлять любыми функциями из любого чата.
+>**Sakura** - позволяет управлять любыми функциями из любого чата.
 ___
 # Навигация 
 
