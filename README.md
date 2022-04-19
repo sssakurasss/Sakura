@@ -43,7 +43,7 @@ ___
 + Листаем в самый низ, нажимаев[Разрешить].
 + Копируем то-что находиться в URL адресе страницы
 
-# Переходим в личные сообщения с [Сerbero Skarlettsoon](<https://vk.com/cerberoskarlettsoon>).
+# Переходим в личные сообщения с [Агентами].
 + Пишем - зарегистрируй
 +  + Получаем - Пользователь (ИМЯ), зарегистрирован успешно.
 
@@ -98,6 +98,13 @@ ___
 + [Удалить сообщение](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Выйти с чата](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Редактирование смс](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Демотиватор](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Чистка собак](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Чистка друзей](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Чистка истоков](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Чистка стены](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Чистка групп](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Чистка сообщений](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + :arrow_up: [Навигация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5)
 ___
 # Скрипты
@@ -195,6 +202,27 @@ ___
 ___
 **Редактирование смс**
 + ```{CPREFIX}``` эдит - Редактирует смс ( Функция в разработке )
+___
+**Демотиватор**
++ ```{CPREFIX}``` дем ```{ENTER}``` ```{TEXT}``` фото - Демотивирует текст
+___
+**Чистка собак**
++ ```{CPREFIX}```!собак - Чистит замороженные/удалённые страницы из друзей
+___
+**Чистка групп**
++ ```{CPREFIX}```!группы - Чистит группы на которые вы подписаные, но не описывается где вы администратор/создатель
+___
+**Чистка истоков**
++ ```{CPREFIX}```!исток - Чистит источники, на кого вы поставили уведомления. Удаляет по: 100
+___
+**Чистка друзей**
++ ```{CPREFIX}```!др - Чистит друзей, удаляет по 100
+___
+**Чистка сообщений**
++ ```{CPREFIX}```!смс - Чистит личные сообщения
+___
+**Чистка стены**
++ ```{CPREFIX}```!стена - Чистит страницу от постов
 ___
 + :arrow_up: [Навигация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 ___
