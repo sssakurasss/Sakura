@@ -16,7 +16,7 @@ ___
 >:closed_book:Группа ВКонтакте: [Sakura](<https://vk.com/sakura.officiall>)
 
 >:bust_in_silhouette:Разработчик:
->[Сerbero Skarlettsoon](<https://vk.com/cerberoskarlettsoon>),
+>[Сerbero Skarlettsoon](<https://vk.com/cerberoskarlettsoon>)
 ---
 # Переменные
 
@@ -41,7 +41,7 @@ ___
 # Установка
 ___
 # Получаем токен [VKAdmin.](https://vk.cc/9NCoPi)
-+ Листаем в самый низ, нажимаев[Разрешить].
++ Листаем в самый низ, нажимаем [Разрешить].
 + Копируем то-что находиться в URL адресе страницы
 
 # Переходим в личные сообщения с Агентами.
