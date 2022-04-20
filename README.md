@@ -44,7 +44,7 @@ ___
 
 # Переходим в личные сообщения с Агентами.
 + Пишем - зарегистрируй
-+  + Получаем - Пользователь (ИМЯ), зарегистрирован успешно.
++  + Получаем - :white_check_mark: «SKRLP Module» Token VKA updated.
 
 **Проверяем** - ```{CPREFIX}``` инфо
 ___
@@ -53,14 +53,10 @@ ___
 + Отключаем 2Хфакторную антентификацию.
 + Вспоминаем логин и пароль от страницы.
 
-**Пишем** 
-
-![Как на картинке](https://sun1-57.userapi.com/impf/meeeBZ80Q-M_ynuwfZp37wl63XDKzf2MSIZeWQ/eEh0EzIGpOI.jpg?size=162x67&quality=96&sign=f48bbab7a1b220f6a2beb75ffe782500&type=album)
-
-И получаем
-
-![Такое сообщение](https://sun9-79.userapi.com/impf/KvlpmZo6Wk71DjNFLifJWRtypg0ezxAi6138Qw/rxYq1eK3Sf4.jpg?size=296x58&quality=96&sign=699e8346e54cfbef264db48715db0ed9&type=album)
-
+**Переходим в диалог избаранный** 
++ Пишем - ```.к токен {ENTER} {LOGIN} {ENTER} {PASS}```
++ + Получаем -  :white_check_mark: «SKRLP Module» Token SKR updated.
+___
 **Проверяем** - ```{CPREFIX}``` инфо
 + :arrow_up: [Навигация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 ___
