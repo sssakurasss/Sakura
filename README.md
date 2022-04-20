@@ -69,6 +69,7 @@ ___
 + [Автоонлайн](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автоотписка](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Авторекоменлации](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Автоферма](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 
 :white_medium_square: [Функции](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Информация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
@@ -124,6 +125,9 @@ ___
 ___
 **Авторекомендации**
 + ```{SPREFIX}``` +/- рек - Включает/Выключает Авторекомандации
+___
+**Автоферма**
++ ```{SPREFIX}``` +/- ферма - Включает/Выключает Автоферму
 ___
 **Автоотписка**
 + ```{SPREFIX}``` +/- отп - Включает/Выключает Автоотписку
