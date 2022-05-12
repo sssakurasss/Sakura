@@ -11,10 +11,13 @@ ___
 ___
 # Ссылки
 ___
->:closed_book:Группа ВКонтакте: [Sakura](<https://vk.com/sakura.officiall>)
+>:closed_book:Группа ВКонтакте: [Sakura](<https://vk.com/lpsakura.community>)
 
 >:bust_in_silhouette:Разработчик:
->[Сerbero Skarlettsoon](<https://vk.com/cerberoskarlettsoon>)
+>[Цербер](<https://vk.com/darkeater_midir>)
+
+>:bust_in_silhouette:Владелец:
+>[Мориарти](<https://vk.com/ssakurass>)
 ---
 # Переменные
 
@@ -68,7 +71,7 @@ ___
 + [Автоприем](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автоонлайн](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автоотписка](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
-+ [Авторекоменлации](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Авторекомендации](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Автоферма](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 
 :white_medium_square: [Функции](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
@@ -103,6 +106,7 @@ ___
 + [Чистка стены](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Чистка групп](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + [Чистка сообщений](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
++ [Шаги](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 + :arrow_up: [Навигация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5)
 ___
 # Скрипты
@@ -230,6 +234,9 @@ ___
 ___
 **Чистка стены**
 + ```{CPREFIX}``` !стена - Чистит страницу от постов
+___
+**Шаги**
++ ```{CPREFIX}``` шаги - Проходит 80,000км и 50,000 метров. 
 ___
 + :arrow_up: [Навигация](https://github.com/sssakurasss/sssakurasss/edit/main/README.md#%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F)
 ___
